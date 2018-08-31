@@ -6,6 +6,8 @@
     <Copyright>Copyright © Simone Giacomoni 2018</Copyright>
     <Description>Handle gridded terrain models</Description>
     <OptionStrict>On</OptionStrict>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>0.2.0</Version>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
